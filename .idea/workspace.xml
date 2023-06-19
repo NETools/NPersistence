@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="NPerSistance:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84c9795a-6198-465c-813a-c6d73cc5abc8" name="Default Changelist" comment="Minor BugFix" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lk5Q9i2wpWjyEjf2deeiODAVc8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/binaries" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\enesh\Desktop\bachelor\praxisprojekt-lernsoftware-ws20-bis-ss21\NPerSistance\src\org\ns\test" />
+      <recent name="C:\Users\enesh\Desktop\bachelor\praxisprojekt-lernsoftware-ws20-bis-ss21\NPerSistance\binaries" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\enesh\Desktop\bachelor\praxisprojekt-lernsoftware-ws20-bis-ss21\NPerSistance\src\org\ns\npersistence" />
+      <recent name="C:\Users\enesh\Desktop\bachelor\praxisprojekt-lernsoftware-ws20-bis-ss21\NPerSistance\src\org\ns" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainTests" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+      <option name="MAIN_CLASS_NAME" value="org.ns.test.Program" />
+      <module name="NPerSistance" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/java.lang=ALL-UNNAMED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\enesh\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84c9795a-6198-465c-813a-c6d73cc5abc8" name="Default Changelist" comment="" />
+      <created>1608128229420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608128229420</updated>
+      <workItem from="1608128230587" duration="622000" />
+      <workItem from="1608128867402" duration="405000" />
+      <workItem from="1608129301647" duration="8873000" />
+      <workItem from="1609360100618" duration="37000" />
+      <workItem from="1609478307905" duration="70000" />
+      <workItem from="1615139606922" duration="1773000" />
+      <workItem from="1615203184467" duration="3932000" />
+      <workItem from="1615233914321" duration="23000" />
+      <workItem from="1615837669069" duration="1980000" />
+      <workItem from="1615857684473" duration="1575000" />
+      <workItem from="1615915393663" duration="4856000" />
+      <workItem from="1616016928984" duration="6164000" />
+      <workItem from="1616072853652" duration="9796000" />
+      <workItem from="1616111569396" duration="3851000" />
+      <workItem from="1616117374712" duration="84000" />
+      <workItem from="1616117621694" duration="202000" />
+      <workItem from="1616184198295" duration="1255000" />
+      <workItem from="1616241600449" duration="14938000" />
+      <workItem from="1616333984281" duration="5792000" />
+      <workItem from="1616604370350" duration="11000" />
+      <workItem from="1616679352360" duration="25000" />
+      <workItem from="1616679428765" duration="296000" />
+      <workItem from="1617563970830" duration="647000" />
+      <workItem from="1617655036529" duration="38000" />
+      <workItem from="1617718840256" duration="392000" />
+      <workItem from="1617719247878" duration="3000" />
+      <workItem from="1617719439831" duration="8000" />
+      <workItem from="1617720923111" duration="9609000" />
+      <workItem from="1617805913817" duration="5576000" />
+      <workItem from="1617819685622" duration="2732000" />
+      <workItem from="1617837000736" duration="3052000" />
+      <workItem from="1617842627220" duration="562000" />
+      <workItem from="1617904180710" duration="9454000" />
+      <workItem from="1617921850542" duration="1191000" />
+      <workItem from="1617923139854" duration="191000" />
+      <workItem from="1617923805757" duration="200000" />
+      <workItem from="1617924058717" duration="96000" />
+      <workItem from="1618080597690" duration="214000" />
+      <workItem from="1619043904424" duration="277000" />
+      <workItem from="1619044337840" duration="18000" />
+      <workItem from="1622128629400" duration="400000" />
+      <workItem from="1622308174438" duration="37000" />
+      <workItem from="1622308310861" duration="3000" />
+    </task>
+    <task id="LOCAL-00001" summary="Deleted deprecated method">
+      <created>1608129438800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608129438800</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commented">
+      <created>1608132053065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608132053065</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ProxyGenerator.getProxyClass() updated.">
+      <created>1608138532311</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608138532311</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ProxyGenerator.getProxyClass() updated.">
+      <created>1608138760724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608138760724</updated>
+    </task>
+    <task id="LOCAL-00005" summary="NPersistence.java renamed to NPersistenceSession.java, added constraints.">
+      <created>1608138919676</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608138919676</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated binary!">
+      <created>1608138958845</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608138958845</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Old binary -- stable version">
+      <created>1615140065255</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615140065255</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Severe Bug Fix">
+      <created>1615204916808</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615204916808</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Severe Bug Fix">
+      <created>1615204933829</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615204933829</updated>
+    </task>
+    <task id="LOCAL-00010" summary="-1- &#10;Memory-Efficient ArrayLists!">
+      <created>1615839439585</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615839439585</updated>
+    </task>
+    <task id="LOCAL-00011" summary="remote &quot;.size()&quot; implemented">
+      <created>1615858880192</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1615858880192</updated>
+    </task>
+    <task id="LOCAL-00012" summary="remote &quot;.size()&quot; und &quot;iterator&quot; implemented">
+      <created>1615859139180</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1615859139180</updated>
+    </task>
+    <task id="LOCAL-00013" summary="BugFix">
+      <created>1615918648754</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1615918648754</updated>
+    </task>
+    <task id="LOCAL-00014" summary="BugFix #--">
+      <created>1615919970969</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615919970969</updated>
+    </task>
+    <task id="LOCAL-00015" summary="BugFix #--">
+      <created>1615920091516</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1615920091516</updated>
+    </task>
+    <task id="LOCAL-00016" summary="&quot;makeLocal()&quot; implementiert - erlaubt das Laden sämtlicher Remote-Objekt in den RAM">
+      <created>1616105841515</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1616105841515</updated>
+    </task>
+    <task id="LOCAL-00017" summary="&quot;makeLocal()&quot; implementiert - erlaubt das Laden sämtlicher Remote-Objekt in den RAM">
+      <created>1616112388678</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1616112388678</updated>
+    </task>
+    <task id="LOCAL-00018" summary="&quot;makeLocal()&quot; implementiert - erlaubt das Laden sämtlicher Remote-Objekt in den RAM">
+      <created>1616112579136</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1616112579136</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Rollback-Algorithmus beschrieben.">
+      <created>1616113431700</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1616113431700</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Neue Version">
+      <created>1616114012925</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1616114012925</updated>
+    </task>
+    <task id="LOCAL-00021" summary="^new-NSQL-Syntax wiederhergestellt.">
+      <created>1616117748610</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1616117748610</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Großes Update: NArrayList, sowie NEntityUpdateHandler komplett überarbeitet', Delete-Rollback implementiert.">
+      <created>1616289490728</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1616289490728</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Großes Update: NArrayList, sowie NEntityUpdateHandler komplett überarbeitet', Delete-Rollback implementiert.">
+      <created>1616290362673</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1616290362673</updated>
+    </task>
+    <task id="LOCAL-00024" summary="NPersistenceSession.java's delete-Methode gefixt.">
+      <created>1616342116956</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1616342116956</updated>
+    </task>
+    <task id="LOCAL-00025" summary="NPersistenceSession.java's delete-Methode gefixt.">
+      <created>1616344127132</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1616344127132</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Binary fixed?">
+      <created>1617719078724</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1617719078724</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Fixed severe bug.">
+      <created>1617724284192</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1617724284193</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Fixed severe bug.">
+      <created>1617724308061</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1617724308061</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Fixed severe bug.">
+      <created>1617727511466</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1617727511466</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Fortan wird DISTINCT benutzt -&gt; Geschwindigkeit wird' optimiert">
+      <created>1617728882140</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1617728882140</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Minor Bug-Fix">
+      <created>1617806160574</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1617806160574</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Auto-Syncing added [EXPERIMENTAL]">
+      <created>1617810738765</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1617810738765</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Auto-Syncing added [EXPERIMENTAL]">
+      <created>1617810944097</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1617810944097</updated>
+    </task>
+    <task id="LOCAL-00034" summary="NArrayList Operationen' implementiert.">
+      <created>1617824458727</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1617824458727</updated>
+    </task>
+    <task id="LOCAL-00035" summary="MySQL-Datenbanken werden fortan unterstützt.">
+      <created>1617921918748</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1617921918748</updated>
+    </task>
+    <task id="LOCAL-00036" summary="MySQL-Datenbanken werden fortan unterstützt.">
+      <created>1617922427509</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1617922427509</updated>
+    </task>
+    <task id="LOCAL-00037" summary="MySQL-Datenbanken werden fortan unterstützt.">
+      <created>1617923319928</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1617923319928</updated>
+    </task>
+    <task id="LOCAL-00038" summary="MySQL-Datenbanken werden fortan unterstützt.">
+      <created>1618080797628</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1618080797628</updated>
+    </task>
+    <task id="LOCAL-00039" summary="BugFix">
+      <created>1622128982462</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1622128982462</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Minor BugFix">
+      <created>1622129018835</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1622129018835</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commented" />
+    <MESSAGE value="ProxyGenerator.getProxyClass() updated." />
+    <MESSAGE value="NPersistence.java renamed to NPersistenceSession.java, added constraints." />
+    <MESSAGE value="Updated binary!" />
+    <MESSAGE value="Old binary -- stable version" />
+    <MESSAGE value="Severe Bug Fix" />
+    <MESSAGE value="-1- &#10;Memory-Efficient ArrayLists!" />
+    <MESSAGE value="remote &quot;.size()&quot; implemented" />
+    <MESSAGE value="remote &quot;.size()&quot; und &quot;iterator&quot; implemented" />
+    <MESSAGE value="BugFix #--" />
+    <MESSAGE value="&quot;makeLocal()&quot; implementiert - erlaubt das Laden sämtlicher Remote-Objekt in den RAM" />
+    <MESSAGE value="Rollback-Algorithmus beschrieben." />
+    <MESSAGE value="Neue Version" />
+    <MESSAGE value="^new-NSQL-Syntax wiederhergestellt." />
+    <MESSAGE value="Großes Update: NArrayList, sowie NEntityUpdateHandler komplett überarbeitet', Delete-Rollback implementiert." />
+    <MESSAGE value="NPersistenceSession.java's delete-Methode gefixt." />
+    <MESSAGE value="Binary fixed?" />
+    <MESSAGE value="Fixed severe bug." />
+    <MESSAGE value="Fortan wird DISTINCT benutzt -&gt; Geschwindigkeit wird' optimiert" />
+    <MESSAGE value="Minor Bug-Fix" />
+    <MESSAGE value="Auto-Syncing added [EXPERIMENTAL]" />
+    <MESSAGE value="NArrayList Operationen' implementiert." />
+    <MESSAGE value="MySQL-Datenbanken werden fortan unterstützt." />
+    <MESSAGE value="BugFix" />
+    <MESSAGE value="Minor BugFix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor BugFix" />
+  </component>
+</project>

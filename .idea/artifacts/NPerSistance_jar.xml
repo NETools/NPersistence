@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NPerSistance:jar">
+    <output-path>$PROJECT_DIR$/binaries</output-path>
+    <root id="archive" name="NPerSistance.jar">
+      <element id="module-output" name="NPerSistance" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../javassist.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/sqlite-jdbc-3.27.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-java-8.0.23.jar" path-in-jar="/" />
+      <element id="library" level="project" name="javassist" />
+      <element id="library" level="project" name="mysql-connector-java-8.0.23" />
+    </root>
+  </artifact>
+</component>

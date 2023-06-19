@@ -1,0 +1,51 @@
+Index: src/org/ns/test/Program.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>// BismIllah\r\npackage org.ns.test;\r\n\r\nimport org.ns.npersistence.NPersistenceSession;\r\nimport org.ns.npersistence.NEntityUpdateHandlerPolicy;\r\nimport org.ns.npersistence.NDebugOutputHandler;\r\n\r\npublic class Program {\r\n\r\n    public static void main(String[] args) throws Exception {\r\n        NDebugOutputHandler.getDefault().setDebugOutputMode(NDebugOutputHandler.DebugOutputMode.Console);\r\n        NPersistenceSession.setRootFolder(\"databases\");\r\n\r\n        NEntityUpdateHandlerPolicy.setForceDeleteTable(true);\r\n        NEntityUpdateHandlerPolicy.setAutoSync(true);\r\n\r\n        NPersistenceSession persistence = NPersistenceSession.getDefault();\r\n        persistence.openSession(NPersistenceSession.SQLDriver.SQLite,\r\n                \"\",\r\n                \"demonstration.db\",\r\n                \"\",\r\n                \"\");\r\n\r\n        /*\r\n        KlasseA testKlasse\r\n                = new KlasseA();\r\n        testKlasse.setId(111111);\r\n        testKlasse.setText(\"Dies ist ein String\");\r\n        testKlasse.setImage(ImageIO.read(new File(\"c:/users/enesh/demonstration/test.png\")));\r\n        testKlasse.setFile(new File(\"c:/users/enesh/demonstration/npersistence.pdf\"));\r\n\r\n        persistence.persistObject(testKlasse);\r\n         */\r\n\r\n        /*\r\n        KlasseA klasseA\r\n                = persistence.getObject(KlasseA.class, 111111, NPersistenceSession.RetrieveMode.Attached);\r\n\r\n\r\n        klasseA.getFile().renameTo(new File(\"c:/users/enesh/demonstration/diesisteinedemo.pdf\"));\r\n         */\r\n\r\n\r\n\r\n        persistence.closeSession();\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/org/ns/test/Program.java b/src/org/ns/test/Program.java
+--- a/src/org/ns/test/Program.java	(revision 91bb3dbd87923a36d69bdd2875a16142cb0d12ee)
++++ b/src/org/ns/test/Program.java	(date 1619044135908)
+@@ -4,6 +4,10 @@
+ import org.ns.npersistence.NPersistenceSession;
+ import org.ns.npersistence.NEntityUpdateHandlerPolicy;
+ import org.ns.npersistence.NDebugOutputHandler;
++import org.ns.test.blob.KlasseA;
++
++import javax.imageio.ImageIO;
++import java.io.File;
+ 
+ public class Program {
+ 
+@@ -21,24 +25,25 @@
+                 "",
+                 "");
+ 
++
+         /*
+         KlasseA testKlasse
+                 = new KlasseA();
+         testKlasse.setId(111111);
+         testKlasse.setText("Dies ist ein String");
+         testKlasse.setImage(ImageIO.read(new File("c:/users/enesh/demonstration/test.png")));
+-        testKlasse.setFile(new File("c:/users/enesh/demonstration/npersistence.pdf"));
++        testKlasse.setFile(new File("c:/users/enesh/demonstration/index.html"));
+ 
+         persistence.persistObject(testKlasse);
+          */
+ 
+-        /*
++
+         KlasseA klasseA
+                 = persistence.getObject(KlasseA.class, 111111, NPersistenceSession.RetrieveMode.Attached);
+ 
+ 
+-        klasseA.getFile().renameTo(new File("c:/users/enesh/demonstration/diesisteinedemo.pdf"));
+-         */
++        klasseA.getFile().renameTo(new File("c:/users/enesh/demonstration/diesisteinedemo.html"));
++
+ 
+ 
+ 

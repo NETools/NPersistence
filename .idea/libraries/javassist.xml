@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javassist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../javassist.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/sqlite-jdbc-3.27.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
